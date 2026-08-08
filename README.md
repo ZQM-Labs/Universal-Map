@@ -1,5 +1,8 @@
 # Universal-Map
 
+[![CI](https://github.com/ZQM-Labs/Universal-Map/actions/workflows/ci.yml/badge.svg)](https://github.com/ZQM-Labs/Universal-Map/actions/workflows/ci.yml) [![Tests](https://github.com/ZQM-Labs/Universal-Map/actions/workflows/tests.yml/badge.svg)](https://github.com/ZQM-Labs/Universal-Map/actions/workflows/tests.yml) [![Ruff](https://github.com/ZQM-Labs/Universal-Map/actions/workflows/ci.yml/badge.svg)](https://github.com/ZQM-Labs/Universal-Map/actions/workflows/ci.yml) [![mypy](https://github.com/ZQM-Labs/Universal-Map/actions/workflows/ci.yml/badge.svg)](https://github.com/ZQM-Labs/Universal-Map/actions/workflows/ci.yml)
+
+
 Placeholder repo for workspace utilities.
 
 ## Status
