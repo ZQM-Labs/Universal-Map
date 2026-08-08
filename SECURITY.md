@@ -1,11 +1,10 @@
 # Security Policy
 
-## Supported Versions
-
-| Version | Supported          |
-| ------- | ------------------ |
-| 0.x.x   | :white_check_mark: |
-
 ## Reporting a Vulnerability
 
-Please report security vulnerabilities to security@zqmcomputing.com or via GitHub Security Advisories.
+If you discover a security vulnerability, please report it responsibly:
+
+- **Email**: security@zqm-computing.io
+- **GitHub Security Advisory**: Use the "Security" tab on GitHub
+
+Please do NOT open public issues for security vulnerabilities.
