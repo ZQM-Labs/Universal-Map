@@ -1,10 +1,4 @@
-[tool.ruff.lint]
-ignore = [
-  "E501",  # line length
-  "F841",  # local variable assigned but never used
-  "I001",  # import block sorting
-]
-select = ["E", "F", "I", "PIE", "PLW", "RUF"]
-
-[tool.ruff]
-line-length = 100
+[lint]
+select = ["E", "F", "W", "I", "UP"]
+ignore = ["E501", "UP031"]
+line-length = 120
