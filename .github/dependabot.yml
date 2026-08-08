@@ -1,36 +1,30 @@
 version: 2
 updates:
-  - package-ecosystem: "github-actions"
-    directory: "/"
+  - package-ecosystem: github-actions
+    directory: /
     schedule:
-      interval: "weekly"
+      interval: weekly
     labels:
-      - "dependencies"
-      - "automated"
-  - package-ecosystem: "pip"
-    directory: "/"
+      - dependencies
+      - automated
+  - package-ecosystem: pip
+    directory: /
     schedule:
-      interval: "weekly"
+      interval: weekly
     labels:
-      - "dependencies"
-      - "automated"
-    allow:
-      - dependency-type: "direct"
-  - package-ecosystem: "nuget"
-    directory: "/"
+      - dependencies
+      - automated
+  - package-ecosystem: nuget
+    directory: /
     schedule:
-      interval: "weekly"
+      interval: weekly
     labels:
-      - "dependencies"
-      - "automated"
-    allow:
-      - dependency-type: "direct"
-  - package-ecosystem: "npm"
-    directory: "/"
+      - dependencies
+      - automated
+  - package-ecosystem: npm
+    directory: /
     schedule:
-      interval: "weekly"
+      interval: weekly
     labels:
-      - "dependencies"
-      - "automated"
-    allow:
-      - dependency-type: "direct"
+      - dependencies
+      - automated
